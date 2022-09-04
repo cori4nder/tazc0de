@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazc0de&label=Profile%20views&color=0e75b6&style=flat" alt="tazc0de" /> </p>
 
-- 🌱 I’m currently learning **R, PyTorch, NLP, Computer Vision, TensorFlow, React**
+- 🌱 I’m currently learning **R, PyTorch, NLP, Computer Vision, TensorFlow**
 
 - 💬 Ask me about **AI**
 
