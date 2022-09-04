@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Passionate about Artificial Intelligence and Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazc0de&label=Profile%20views&color=0e75b6&style=flat" alt="tazc0de" /> </p>
 
