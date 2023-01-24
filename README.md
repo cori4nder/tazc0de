@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazc0de&label=Profile%20views&color=0e75b6&style=flat" alt="tazc0de" /> </p>
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow, Computer Vision, IA**
+- 🌱 I’m currently learning **PyTorch, TensorFlow, Computer Vision, AI**
 
 - 📫 How to reach me **danta83.cc@gmail.com**
 
